@@ -1,0 +1,19 @@
+{
+  "name": "zubxbeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahiba22git/zubxbeta.git"
+  },
+  "author": "sahiba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahiba22git/zubxbeta/issues"
+  },
+  "homepage": "https://github.com/sahiba22git/zubxbeta#readme"
+}
